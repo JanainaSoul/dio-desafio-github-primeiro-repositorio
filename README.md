@@ -4,4 +4,4 @@ Bootcamp Santander - Mobile Developer
 
 ## Links uteis
 
-{Sintaxe básica  Markdowns} (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica  Markdowns](https://www.markdownguide.org/basic-syntax/)
